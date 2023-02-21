@@ -18,4 +18,4 @@ actually
 in actuality
 
 ## ADJECTIVE:
-existing or holding a specified position in fact but not necessarily by legal right:
+existing or holding a specified position in fact but not necessarily by legal right.
