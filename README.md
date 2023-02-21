@@ -1,2 +1,2 @@
 # Vocabulary
-For English (or other languages) vocabulary.
+For vocabularies in English (or other languages).
